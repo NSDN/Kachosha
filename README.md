@@ -9,6 +9,6 @@ Kachosha Framework致力于实现一套极小高性能可嵌入式脚本引擎�
 * Kachosha Deassemblier （F#）
 * Kachosha Code Generator （.NET）
 * Kachosha Assembly Parser（F#）
-* Kachosha Assembly Compiler（F#）
+* Kachosha Assemblier（F#）
 
 
